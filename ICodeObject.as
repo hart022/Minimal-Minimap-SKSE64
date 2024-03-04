@@ -1,7 +1,7 @@
-﻿package F4SE
+﻿package SKSE
 {
     public interface ICodeObject
     {
-        function onF4SEObjCreated(e:*) : void;
+        function onSKSEObjCreated(e:*) : void;
     }
 }
